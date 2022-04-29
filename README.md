@@ -6,13 +6,13 @@ test
 
 aaaaaaaaaaaaaaaaaaaaaaa
 
--aaa
--aa
--aaa
+- aa
+- aa
+- aaa
 
 
 
 aaaaaaa
-  *aaaa
-  *aaaa
-  -aaaa
+  * aaaa
+  * aaaa
+  - aaaa
